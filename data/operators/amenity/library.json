@@ -875,7 +875,6 @@
     },
     {
       "displayName": "London Borough of Hounslow",
-      "id": "londonboroughofhounslow-d8f64f",
       "locationSet": {
         "include": ["gb-lon.geojson"]
       },
@@ -888,7 +887,6 @@
     },
     {
       "displayName": "London Borough of Merton",
-      "id": "londonboroughofmerton-d8f64f",
       "locationSet": {
         "include": ["gb-lon.geojson"]
       },
@@ -901,7 +899,6 @@
     },
     {
       "displayName": "London Borough of Richmond Upon Thames",
-      "id": "londonboroughofrichmonduponthames-d8f64f",
       "locationSet": {
         "include": ["gb-lon.geojson"]
       },
@@ -918,7 +915,6 @@
     },
     {
       "displayName": "London Borough of Wandsworth",
-      "id": "londonboroughofwandsworth-d8f64f",
       "locationSet": {
         "include": ["gb-lon.geojson"]
       },
